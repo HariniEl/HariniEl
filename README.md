@@ -1,4 +1,4 @@
 - 👋 Hi, I’m Harini 
 - 👀 I’m interested in "Leraning and creating a new things in the modern technology"
-- 🌱 I’m currently learning "MERN"
+- 🌱 I have done certification in Full Stack Developer "MERN" in Guvi
 - 📫 How to reach me "harielango0605@gmail.com"
